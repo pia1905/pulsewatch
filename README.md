@@ -494,7 +494,9 @@ pulsewatch/
 │
 ├── .gitignore
 └── README.md
-⚙️ Local Setup
+
+
+⚙️ **Local Setup**
 Prerequisites
 
 Install:
@@ -581,7 +583,6 @@ Example:
 VITE_GOOGLE_CLIENT_ID=your-client-id.apps.googleusercontent.com
 Important
 
-Do not commit .env files to GitHub.
 
 🧪 Running the Application
 
@@ -645,25 +646,7 @@ Step 8 — Personalize
 
 Change the user's attention threshold and demonstrate how the classification changes.
 
-🖼️ Screenshots
 
-Screenshots can be added here to make the project easier to understand without running it.
-
-Recommended screenshots:
-
-1. Login
-![PulseWatch Login](docs/screenshots/login.png)
-2. Dashboard
-![PulseWatch Dashboard](docs/screenshots/dashboard.png)
-3. Since Your Last Visit
-![Market Changes](docs/screenshots/changes.png)
-4. Why Am I Seeing This?
-![Change Explanation](docs/screenshots/explanation.png)
-5. Settings
-![Settings](docs/screenshots/settings.png)
-6. Demo Mode
-![Demo Mode](docs/screenshots/demo.png)
-Recommended folder structure
 
 Create:
 
@@ -857,11 +840,9 @@ PulseWatch
 That is the problem PulseWatch is designed to solve.
 
 
-## 📸 About the screenshots
+## 📸 Screenshots
 
-**Yes, absolutely add screenshots.** For this particular challenge, I'd put them fairly high in the README, because a judge can understand the product in 30 seconds without cloning it.
-
-I'd take these **5 screenshots from your existing app**:
+**5 screenshots from your existing app**:
 
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/8e7870e6-880f-472d-9c47-20ac8054a3be" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/999f37c5-c5f0-483e-be4e-13c7d6250de4" />
@@ -878,16 +859,5 @@ I'd take these **5 screenshots from your existing app**:
 3. **"Since Your Last Visit" with a HIGH stock** — this is your most important screenshot
 4. **"Why am I seeing this?" modal + Settings** — demonstrates explainability and personalization
 
-Don't take screenshots of code or Swagger unless there's a specific reason.
 
-### One important correction before you paste this
-
-Your current project uses the actual market-data implementation we've built, so **don't blindly add any dependency that isn't actually in your `package.json` or backend environment** just because it's mentioned in a README. The README should describe what works in the repo.
-
-Also, since you've already pushed the repository, after replacing the README:
-
-```powershell
-git add README.md
-git commit -m "Improve project documentation"
-git push
 
