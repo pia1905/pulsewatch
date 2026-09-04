@@ -863,6 +863,9 @@ That is the problem PulseWatch is designed to solve.
 
 I'd take these **4 screenshots from your existing app**:
 
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/8e7870e6-880f-472d-9c47-20ac8054a3be" />
+
+
 1. **Login page** — shows Google authentication + product branding
 2. **Main dashboard** — shows the overall PulseWatch experience
 3. **"Since Your Last Visit" with a HIGH stock** — this is your most important screenshot
