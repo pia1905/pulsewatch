@@ -601,7 +601,6 @@ Open:
 http://localhost:5173
 🎥 Recommended Demo Flow
 
-For evaluation, the following flow demonstrates the core idea clearly.
 
 Step 1 — Login
 
@@ -842,7 +841,7 @@ That is the problem PulseWatch is designed to solve.
 
 ## 📸 Screenshots
 
-**5 screenshots from your existing app**:
+**5 screenshots from the existing app**:
 
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/8e7870e6-880f-472d-9c47-20ac8054a3be" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/999f37c5-c5f0-483e-be4e-13c7d6250de4" />
