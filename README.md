@@ -1,5 +1,5 @@
-PulseWatch 📈
-Attention-first smart market watchlist
+**PulseWatch** 📈
+**Attention-first smart market watchlist**
 
 PulseWatch remembers what you last saw, detects meaningful market changes, and explains why a stock deserves your attention.
 
@@ -11,7 +11,7 @@ Traditional watchlists tell users what the market looks like right now. PulseWat
 
 Instead of relying only on daily percentage change, PulseWatch stores the user's last-seen state and compares it with the latest available market information. It then prioritizes stocks based on the magnitude of the change and provides an explanation for why a stock deserves attention.
 
-🚨 Problem
+🚨 **Problem**
 
 A conventional market watchlist can contain dozens of stocks, but users often have to manually scan every stock to determine:
 
@@ -52,11 +52,11 @@ since your last visit.
 
 This reduces the amount of information the user needs to process.
 
-💡 Our Solution
+💡 **Our Solution**
 
 PulseWatch introduces an attention-first layer on top of a traditional watchlist.
 
-The system:
+**The system:**
 
 Stores the user's watchlist.
 Fetches the latest available market data.
@@ -72,7 +72,7 @@ The result is a dashboard focused on:
 
 What changed → How meaningful is it → Why should I care?
 
-⭐ What Makes PulseWatch Different?
+⭐**What Makes PulseWatch Different?**
 
 The core idea is the personalized comparison baseline.
 
@@ -96,7 +96,7 @@ Attention Score
         ↓
 Explanation
 
-✨ Key Features
+✨ **Key Features**
 1. Smart Watchlist
 
 Users can:
@@ -861,9 +861,16 @@ That is the problem PulseWatch is designed to solve.
 
 **Yes, absolutely add screenshots.** For this particular challenge, I'd put them fairly high in the README, because a judge can understand the product in 30 seconds without cloning it.
 
-I'd take these **4 screenshots from your existing app**:
+I'd take these **5 screenshots from your existing app**:
 
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/8e7870e6-880f-472d-9c47-20ac8054a3be" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/999f37c5-c5f0-483e-be4e-13c7d6250de4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f65aa892-c5b0-47d4-aa6b-16e58efc20f5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d33ce22-2994-4d00-9257-04f55870cd14" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cccbca77-8449-467b-a22e-e4a0947d8054" />
+
+
+
 
 
 1. **Login page** — shows Google authentication + product branding
